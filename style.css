@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+
+.headlin h1{
+    color: red;
+}
+
+.banner-all img{
+    width: ;
+    height: 300px;
+}
+
+
+
+
+
+.box-shadow img{
+    height: 50px;
+    display: ;
+}
+
+
+.clint-all img{
+    width: 100px;
+    border-radius: 50%;
+}
+
+.form3 {
+    margin-bottom: 20px;
+}
+
+
+.navbar,.banner-all,.mision,.box-shadow img,.box-shadow2,.clint-all img,.clint-all,.form4,.form6,.footer{
+   box-shadow: 10px 0px 28px -6px rgba(230,29,29,0.75);
+-webkit-box-shadow: 10px 0px 28px -6px rgba(230,29,29,0.75);
+-moz-box-shadow: 10px 0px 28px -6px rgba(230,29,29,0.75);  
+}
+
